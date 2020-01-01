@@ -1,0 +1,455 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Schumm, Morissette and Pouros"
+    },
+    {
+      "id": 2,
+      "name": "Labadie - Hane"
+    },
+    {
+      "id": 3,
+      "name": "Friesen, Hoppe and Bechtelar"
+    },
+    {
+      "id": 4,
+      "name": "Brakus LLC"
+    },
+    {
+      "id": 5,
+      "name": "Daugherty, Harber and Mosciski"
+    }
+  ],
+  "catalogs": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "title": "facere"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "title": "sed"
+    },
+    {
+      "id": 3,
+      "companyId": 1,
+      "title": "placeat"
+    },
+    {
+      "id": 4,
+      "companyId": 2,
+      "title": "qui"
+    },
+    {
+      "id": 5,
+      "companyId": 2,
+      "title": "ea"
+    },
+    {
+      "id": 6,
+      "companyId": 2,
+      "title": "et"
+    },
+    {
+      "id": 7,
+      "companyId": 3,
+      "title": "quis"
+    },
+    {
+      "id": 8,
+      "companyId": 3,
+      "title": "expedita"
+    },
+    {
+      "id": 9,
+      "companyId": 3,
+      "title": "enim"
+    },
+    {
+      "id": 10,
+      "companyId": 4,
+      "title": "qui"
+    },
+    {
+      "id": 11,
+      "companyId": 4,
+      "title": "voluptas"
+    },
+    {
+      "id": 12,
+      "companyId": 4,
+      "title": "quam"
+    },
+    {
+      "id": 13,
+      "companyId": 5,
+      "title": "est"
+    },
+    {
+      "id": 14,
+      "companyId": 5,
+      "title": "aut"
+    },
+    {
+      "id": 15,
+      "companyId": 5,
+      "title": "dicta"
+    }
+  ],
+  "catalogElements": [
+    {
+      "id": 1,
+      "catalogId": 1,
+      "title": "consequatur",
+      "price": 310
+    },
+    {
+      "id": 2,
+      "catalogId": 1,
+      "title": "autem",
+      "price": 325
+    },
+    {
+      "id": 3,
+      "catalogId": 1,
+      "title": "sint",
+      "price": 817
+    },
+    {
+      "id": 4,
+      "catalogId": 2,
+      "title": "perspiciatis",
+      "price": 957
+    },
+    {
+      "id": 5,
+      "catalogId": 2,
+      "title": "quos",
+      "price": 669
+    },
+    {
+      "id": 6,
+      "catalogId": 2,
+      "title": "nihil",
+      "price": 927
+    },
+    {
+      "id": 7,
+      "catalogId": 3,
+      "title": "consequatur",
+      "price": 82
+    },
+    {
+      "id": 8,
+      "catalogId": 3,
+      "title": "quam",
+      "price": 889
+    },
+    {
+      "id": 9,
+      "catalogId": 3,
+      "title": "deleniti",
+      "price": 658
+    },
+    {
+      "id": 10,
+      "catalogId": 4,
+      "title": "illum",
+      "price": 866
+    },
+    {
+      "id": 11,
+      "catalogId": 4,
+      "title": "vel",
+      "price": 624
+    },
+    {
+      "id": 12,
+      "catalogId": 4,
+      "title": "id",
+      "price": 876
+    },
+    {
+      "id": 13,
+      "catalogId": 5,
+      "title": "minus",
+      "price": 133
+    },
+    {
+      "id": 14,
+      "catalogId": 5,
+      "title": "eaque",
+      "price": 934
+    },
+    {
+      "id": 15,
+      "catalogId": 5,
+      "title": "possimus",
+      "price": 977
+    },
+    {
+      "id": 16,
+      "catalogId": 6,
+      "title": "sequi",
+      "price": 997
+    },
+    {
+      "id": 17,
+      "catalogId": 6,
+      "title": "vel",
+      "price": 625
+    },
+    {
+      "id": 18,
+      "catalogId": 6,
+      "title": "nesciunt",
+      "price": 489
+    },
+    {
+      "id": 19,
+      "catalogId": 7,
+      "title": "qui",
+      "price": 300
+    },
+    {
+      "id": 20,
+      "catalogId": 7,
+      "title": "dolor",
+      "price": 133
+    },
+    {
+      "id": 21,
+      "catalogId": 7,
+      "title": "optio",
+      "price": 917
+    },
+    {
+      "id": 22,
+      "catalogId": 8,
+      "title": "aliquid",
+      "price": 225
+    },
+    {
+      "id": 23,
+      "catalogId": 8,
+      "title": "rem",
+      "price": 134
+    },
+    {
+      "id": 24,
+      "catalogId": 8,
+      "title": "nulla",
+      "price": 30
+    },
+    {
+      "id": 25,
+      "catalogId": 9,
+      "title": "quisquam",
+      "price": 967
+    },
+    {
+      "id": 26,
+      "catalogId": 9,
+      "title": "qui",
+      "price": 785
+    },
+    {
+      "id": 27,
+      "catalogId": 9,
+      "title": "porro",
+      "price": 915
+    },
+    {
+      "id": 28,
+      "catalogId": 10,
+      "title": "non",
+      "price": 896
+    },
+    {
+      "id": 29,
+      "catalogId": 10,
+      "title": "id",
+      "price": 966
+    },
+    {
+      "id": 30,
+      "catalogId": 10,
+      "title": "maiores",
+      "price": 121
+    },
+    {
+      "id": 31,
+      "catalogId": 11,
+      "title": "laboriosam",
+      "price": 328
+    },
+    {
+      "id": 32,
+      "catalogId": 11,
+      "title": "pariatur",
+      "price": 994
+    },
+    {
+      "id": 33,
+      "catalogId": 11,
+      "title": "aspernatur",
+      "price": 66
+    },
+    {
+      "id": 34,
+      "catalogId": 12,
+      "title": "et",
+      "price": 768
+    },
+    {
+      "id": 35,
+      "catalogId": 12,
+      "title": "in",
+      "price": 436
+    },
+    {
+      "id": 36,
+      "catalogId": 12,
+      "title": "et",
+      "price": 664
+    },
+    {
+      "id": 37,
+      "catalogId": 13,
+      "title": "maxime",
+      "price": 112
+    },
+    {
+      "id": 38,
+      "catalogId": 13,
+      "title": "sit",
+      "price": 879
+    },
+    {
+      "id": 39,
+      "catalogId": 13,
+      "title": "ipsa",
+      "price": 289
+    },
+    {
+      "id": 40,
+      "catalogId": 14,
+      "title": "tempore",
+      "price": 985
+    },
+    {
+      "id": 41,
+      "catalogId": 14,
+      "title": "sequi",
+      "price": 969
+    },
+    {
+      "id": 42,
+      "catalogId": 14,
+      "title": "commodi",
+      "price": 748
+    },
+    {
+      "id": 43,
+      "catalogId": 15,
+      "title": "et",
+      "price": 717
+    },
+    {
+      "id": 44,
+      "catalogId": 15,
+      "title": "aut",
+      "price": 244
+    },
+    {
+      "id": 45,
+      "catalogId": 15,
+      "title": "totam",
+      "price": 87
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "pkgName": "Package 1",
+      "companyId": 1,
+      "pkgActualPrice": 3268,
+      "pkgDiscount": 0,
+      "pkgFinalPrice": 3268,
+      "elements": [
+        {
+          "id": 1,
+          "catalogId": 1,
+          "title": "consequatur",
+          "price": 310
+        },
+        {
+          "id": 2,
+          "catalogId": 1,
+          "title": "autem",
+          "price": 325
+        },
+        {
+          "id": 3,
+          "catalogId": 1,
+          "title": "sint",
+          "price": 817
+        },
+        {
+          "id": 6,
+          "catalogId": 2,
+          "title": "nihil",
+          "price": 927
+        },
+        {
+          "id": 8,
+          "catalogId": 3,
+          "title": "quam",
+          "price": 889
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pkgName": "Package 2",
+      "companyId": 4,
+      "pkgActualPrice": 2592,
+      "pkgDiscount": 0,
+      "pkgFinalPrice": 2592,
+      "elements": [
+        {
+          "id": 31,
+          "catalogId": 11,
+          "title": "laboriosam",
+          "price": 328
+        },
+        {
+          "id": 32,
+          "catalogId": 11,
+          "title": "pariatur",
+          "price": 994
+        },
+        {
+          "id": 33,
+          "catalogId": 11,
+          "title": "aspernatur",
+          "price": 66
+        },
+        {
+          "id": 34,
+          "catalogId": 12,
+          "title": "et",
+          "price": 768
+        },
+        {
+          "id": 35,
+          "catalogId": 12,
+          "title": "in",
+          "price": 436
+        }
+      ]
+    }
+  ]
+}
